@@ -15,4 +15,4 @@ I’m interested in long-lived, safety-critical software and the review-driven c
 - Apply to Summer of Bitcoin 2026  
 - Grow into a systems / infrastructure engineer
 
-GitHub is my primary workspace — contributions and discussions are the best way to see what I’m working on.
+GitHub is my primary workspace contributions and discussions are the best way to see what I’m working on.
