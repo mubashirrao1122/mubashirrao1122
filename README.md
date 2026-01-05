@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I’m Mubashir 👋
 
-<!--
-**mubashirrao1122/mubashirrao1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS senior at FAST (Pakistan), currently focusing on **Bitcoin open-source development**.
 
-Here are some ideas to get you started:
+**Current focus**
+- Contributing to Bitcoin / Lightning Network repositories  
+- Systems programming (Rust, reading C++)  
+- Testing, tooling, and small correctness-focused improvements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Why Bitcoin OSS**
+I’m interested in long-lived, safety-critical software and the review-driven culture around Bitcoin development.
+
+**2026 goals**
+- Contribute consistently to Bitcoin-adjacent open-source projects  
+- Apply to Summer of Bitcoin 2026  
+- Grow into a systems / infrastructure engineer
+
+GitHub is my primary workspace — contributions and discussions are the best way to see what I’m working on.
